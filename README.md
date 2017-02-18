@@ -4,6 +4,8 @@ This respository contains the content for the "Introduction to Python for Engine
 as produced by SME Chapter 112. This event is designed to demonstrate the benefits of using a programming lanugage
 (in this case, Python) to solve domain-specific problems in physical engineering disciplines.
 
+All Python code in this repository uses Python 3.
+
 ## Contributing
 
 Issues and pull requests are welcome - even if you are not an SME member. If you would like to suggest additional user cases which
